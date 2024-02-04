@@ -22,19 +22,19 @@
     "url": "https://a9f3c40f-8395-431d-857b-a84a7b024922-00-5ng2nz4h91kl.worf.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/a9f3c40f-8395-431d-857b-a84a7b024922-00-5ng2nz4h91kl.worf.replit.dev.ico",
     "slug": "kei-bot2",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "32.35%",
+    "uptimeDay": "32.35%",
+    "uptimeWeek": "32.35%",
+    "uptimeMonth": "32.35%",
+    "uptimeYear": "32.35%",
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-02-04": 0
+      "2024-02-04": 9
     }
   }
 ]
