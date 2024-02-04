@@ -1,22 +1,38 @@
 [
   {
-    "name": "KeiBot",
+    "name": "KeiBot1",
+    "url": "https://replit.com/@blendyz122/Discord-Online-Forever",
+    "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
+    "slug": "kei-bot1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "KeiBot2",
     "url": "https://a9f3c40f-8395-431d-857b-a84a7b024922-00-5ng2nz4h91kl.worf.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/a9f3c40f-8395-431d-857b-a84a7b024922-00-5ng2nz4h91kl.worf.replit.dev.ico",
-    "slug": "kei-bot",
+    "slug": "kei-bot2",
     "status": "up",
-    "uptime": "12.79%",
-    "uptimeDay": "12.79%",
-    "uptimeWeek": "12.79%",
-    "uptimeMonth": "12.79%",
-    "uptimeYear": "12.79%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2024-02-04": 24
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
+    "dailyMinutesDown": {}
   }
 ]
