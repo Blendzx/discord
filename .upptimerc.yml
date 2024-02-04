@@ -4,7 +4,7 @@ repo: discord # The name of this repository
 
 sites:
   - name: KeiBot
-    url: https://replit.com/@blendyz122/Discord-Online-Forever
+    url: https://a9f3c40f-8395-431d-857b-a84a7b024922-00-5ng2nz4h91kl.worf.replit.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
