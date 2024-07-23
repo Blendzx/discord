@@ -4,18 +4,20 @@
     "url": "https://replit.com/@blendyz122/Discord-Online-Forever",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "kei-bot1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 478,
-    "timeWeek": 404,
-    "timeMonth": 402,
-    "timeYear": 378,
-    "dailyMinutesDown": {}
+    "time": 377,
+    "timeDay": 353,
+    "timeWeek": 382,
+    "timeMonth": 396,
+    "timeYear": 377,
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "KeiBot2",
@@ -34,7 +36,7 @@
     "timeMonth": 229,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-07-23": 56,
+      "2024-07-23": 707,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
